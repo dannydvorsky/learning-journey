@@ -31,13 +31,16 @@ You can check my **[task list](./task-list.md)** for detailed progress tracking.
 ## 📂 Repository Structure
 
 - 📁 **My-Learning-Journey/**
-  - 📜 **README.md** (You're here! 📌)
-  - 📁 **GitHub-Tasks/** (Git-related learning materials)
-  - 📁 **JavaScript/** (JavaScript & TypeScript projects)
-  - 📁 **MongoDB/** (MongoDB scripts & experiments)
-  - 📁 **Backend/** (API experiments, Express.js, etc.)
+  - 📜 **README.md** (Intro, roadmap, structure)
+  - 📜 **task-list.md** (Summary progress tracker)
   - 📜 **index.md** (felt neccessary, may delete later)
-  - 📜 **task-list.md** (Course progress tracking)
+  - 📁 **Courses/**
+    - 📜 **GitHub-Essentials.md** (Detailed GitHub course tasks)
+    - 📜 **Introduction-to-MongoDB.md** (Detailed MongoDB course tasks)
+    - 📜 **JavaScript-and-TypeScript.md** (Detailed JavaScript/TypeScript tasks)
+    - 📜 **Backend-Development.md** (Detailed backend-related tasks)
+  
+  
 
 ---
 
