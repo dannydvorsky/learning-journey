@@ -8,7 +8,7 @@
 - [x] **GitHub Pages** – Learn how to create a website or blog from your GitHub repository.
 
 ## **Module 2: Collaboration & Workflow Management**
-- [ ] **Review Pull Requests** – Learn how to collaborate effectively using pull requests.
+- [x] **Review Pull Requests** – Learn how to collaborate effectively using pull requests.
 - [ ] **Resolve Merge Conflicts** – Understand why conflicts happen and how to resolve them.
 - [ ] **Release-Based Workflow** – Explore branching strategies for project releases.
 - [ ] **Connect the Dots** – Find relevant conversations, commits, and projects.
