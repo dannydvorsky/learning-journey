@@ -9,7 +9,7 @@ For **detailed tasks**, check the specific topic files in the [`Courses`](./Cour
 🔗 **[Detailed GitHub Tasks](./Courses/GitHub-Essentials.md)**  
 - [x] Introduction to GitHub  
 - [x] Communicate using Markdown  
-- [ ] Review Pull Requests  
+- [x] Review Pull Requests  
 - [ ] Code with GitHub Codespaces  
 
 ---
