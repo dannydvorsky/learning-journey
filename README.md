@@ -37,7 +37,8 @@ You can check my **[task list](./task-list.md)** for detailed progress tracking.
   - 📁 **Courses/**
     - 📜 **GitHub-Essentials.md** (Detailed GitHub course tasks)
     - 📜 **Introduction-to-MongoDB.md** (Detailed MongoDB course tasks)
-    - 📜 **JavaScript-and-TypeScript.md** (Detailed JavaScript/TypeScript tasks)
+    - 📜 **JavaScript.md** (Detailed JavaScript/TypeScript tasks)
+    - 📜 **TypeScript.md**
     - 📜 **Backend-Development.md** (Detailed backend-related tasks)
   
   
