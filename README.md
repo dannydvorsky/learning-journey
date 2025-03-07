@@ -29,3 +29,39 @@ You can check my **[task list](./task-list.md)** for detailed progress tracking.
 ---
 
 ## 📂 Repository Structure
+
+📁 My-Learning-Journey/
+│– 📜 README.md  (You’re here! 📌)
+│– 📂 GitHub-Tasks/   (Git-related learning materials)
+│– 📂 JavaScript/     (JavaScript & TypeScript projects)
+│– 📂 MongoDB/        (MongoDB scripts & experiments)
+│– 📂 Backend/        (API experiments, Express.js, etc.)
+│– 📜 task-list.md    (Course progress tracking)
+
+---
+
+## 🎯 Goals & Roadmap
+
+Some key milestones in my journey:
+- [x] **Set up my GitHub learning repo**
+- [ ] **Complete Git & GitHub Collaboration course**
+- [ ] **Build and deploy a small backend service with MongoDB**
+- [ ] **Explore GitHub Actions for automation**
+- [ ] **Deep dive into MongoDB schema design & indexing**
+
+This repo will evolve as I progress through my learning. 🚀
+
+---
+
+## 📢 Disclaimer
+
+This repository is public for **transparency and accountability**, but I am **not sharing sensitive project details**.  
+If you have any suggestions, feel free to open an **issue** or connect with me! 😊  
+
+---
+
+### 🔗 Useful Links
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [MongoDB University](https://learn.mongodb.com/)
+- [GitHub Docs](https://docs.github.com/)
+- [Express.js Docs](https://expressjs.com/)
