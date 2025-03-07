@@ -39,6 +39,15 @@ You can check my **[task list](./task-list.md)** for detailed progress tracking.
 ├── 📜 index.md (felt neccessary, may delete later)
 └── 📜 task-list.md (Course progress tracking)
 
+- 📁 **My-Learning-Journey/**
+  - 📜 **README.md** (You're here! 📌)
+  - 📁 **GitHub-Tasks/** (Git-related learning materials)
+  - 📁 **JavaScript/** (JavaScript & TypeScript projects)
+  - 📁 **MongoDB/** (MongoDB scripts & experiments)
+  - 📁 **Backend/** (API experiments, Express.js, etc.)
+  - 📜 **index.md** (felt neccessary, may delete later)
+  - 📜 **task-list.md** (Course progress tracking)
+
 ---
 
 ## 🎯 Goals & Roadmap
