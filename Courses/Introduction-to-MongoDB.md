@@ -14,9 +14,9 @@
   - Learn to connect with Compass and Mongo Shell
 - [X] **Unit 5:** MongoDB CRUD Operations: Insert and Find Documents
   - Learn how to create, find, and query documents
-- [ ] **Unit 6:** MongoDB CRUD Operations: Replace and Delete Documents
+- [x] **Unit 6:** MongoDB CRUD Operations: Replace and Delete Documents
   - Learn how to replace and delete documents
-- [X] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
+- [ ] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
   - Sort and limit query results
   - Count documents in MongoDB
 - [ ] **Unit 8:** MongoDB Aggregation
