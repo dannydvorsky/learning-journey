@@ -10,7 +10,7 @@
 ## **Module 2: Collaboration & Workflow Management**
 - [x] **Review Pull Requests** – Learn how to collaborate effectively using pull requests.
 - [x] **Resolve Merge Conflicts** – Understand why conflicts happen and how to resolve them.
-- [ ] **Release-Based Workflow** – Explore branching strategies for project releases.
+- [x] **Release-Based Workflow** – Explore branching strategies for project releases.
 - [ ] **Connect the Dots** – Find relevant conversations, commits, and projects.
 - [ ] **Code with Codespaces** – Learn how to use GitHub Codespaces with VS Code.
 - [ ] **Code with Copilot** – Explore AI-powered coding suggestions with GitHub Copilot.
