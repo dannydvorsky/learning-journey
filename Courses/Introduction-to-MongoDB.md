@@ -1,35 +1,35 @@
 # Introduction to MongoDB
 
 - [X] **Unit 1:** Start Here - Intro to MongoDB
-  - [ ] Overview of MongoDB fundamentals
-  - [ ] Learn about document model, CRUD operations, and indexing
+  - Overview of MongoDB fundamentals
+  - Learn about document model, CRUD operations, and indexing
 - [X] **Unit 2:** Getting Started with MongoDB Atlas
-  - [ ] Learn about MongoDB Atlas
-  - [ ] Deploy your first cluster
+  - Learn about MongoDB Atlas
+  - Deploy your first cluster
 - [X] **Unit 3:** MongoDB and the Document Model
-  - [ ] Understand how MongoDB organizes data
-  - [ ] Manage databases, collections, and documents
+  - Understand how MongoDB organizes data
+  - Manage databases, collections, and documents
 - [X] **Unit 4:** Connecting to a MongoDB Database
-  - [ ] Use connection strings to connect to MongoDB
-  - [ ] Learn to connect with Compass and Mongo Shell
+  - Use connection strings to connect to MongoDB
+  - Learn to connect with Compass and Mongo Shell
 - [X] **Unit 5:** MongoDB CRUD Operations: Insert and Find Documents
-  - [ ] Learn how to create, find, and query documents
+  - Learn how to create, find, and query documents
 - [ ] **Unit 6:** MongoDB CRUD Operations: Replace and Delete Documents
-  - [ ] Learn how to replace and delete documents
-- [ ] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
-  - [ ] Sort and limit query results
-  - [ ] Count documents in MongoDB
+  - Learn how to replace and delete documents
+- [X] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
+  - Sort and limit query results
+  - Count documents in MongoDB
 - [ ] **Unit 8:** MongoDB Aggregation
-  - [ ] Learn to create aggregation pipelines
-  - [ ] Perform data transformation and analysis
+  - Learn to create aggregation pipelines
+  - Perform data transformation and analysis
 - [ ] **Unit 9:** MongoDB Indexes
-  - [ ] Learn how to create and manage indexes
-  - [ ] Optimize query performance
+  - Learn how to create and manage indexes
+  - Optimize query performance
 - [ ] **Unit 10:** MongoDB Atlas Search
-  - [ ] Understand Atlas Search for full-text search capabilities
+  - Understand Atlas Search for full-text search capabilities
 - [ ] **Unit 11:** MongoDB Data Modeling Intro
-  - [ ] Learn the basics of data modeling
-  - [ ] Define data relationships in MongoDB
+  - Learn the basics of data modeling
+  - Define data relationships in MongoDB
 - [ ] **Unit 12:** MongoDB Transactions
-  - [ ] Understand ACID transactions in MongoDB
-  - [ ] Learn how transactions ensure data integrity
+  - Understand ACID transactions in MongoDB
+  - Learn how transactions ensure data integrity
