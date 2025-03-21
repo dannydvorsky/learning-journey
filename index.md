@@ -8,5 +8,5 @@ This will serve as a check-list of my learning path.
   - [X] GitHub
   - [X] JavaScript
   - [X] MongoDB
-  - [ ] TypeScript
-  - [ ] SQL
+  - [X] TypeScript
+  - [X] SQL

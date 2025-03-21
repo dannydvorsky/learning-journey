@@ -22,8 +22,9 @@ This project is a clean, beginner-friendly web-based calculator built using **HT
 1. The calculator interface consists of an input field for display and a set of number/operator buttons.
 2. User input is handled by click events on buttons or keyboard input via `keydown` event listeners.
 3. Values and operators are appended to the display or cleared/calculated on demand.
-4. Arithmetic evaluation is currently performed using the built-in `eval()` function with error handling.
+4. Arithmetic evaluation is currently performed using aa custom arithmetic parser with error handling.
 5. The display always defaults to `0` until the user provides input or a result is shown.
+6. Unit test added to be shown in browser console
 
 ## Project Structure
 
@@ -33,9 +34,12 @@ This project is a clean, beginner-friendly web-based calculator built using **HT
     - 📜 script.js
     - 📜 README.md
 
+## Past stages
+
+- Arithmetic evaluation used to be performed using the built-in `eval()` function with error handling.
+
 ## Future Improvements
 
-- Replace `eval()` with a custom arithmetic parser
 - Add parentheses support
 - Include scientific functions (square root, power, etc.)
 - Add light/dark theme toggle
