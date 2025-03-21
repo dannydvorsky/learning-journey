@@ -3,6 +3,12 @@ const buttonsContainer = document.querySelector('.calculator__buttons');
 
 display.value = '0';
 
+display.addEventListener('input', () => {
+    if (display.classList.contains('error')) {
+      display.classList.remove('error');
+    }
+  });
+
 buttonsContainer.addEventListener('click', function (event) {
   const target = event.target;
 

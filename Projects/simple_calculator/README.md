@@ -41,6 +41,8 @@ This project is a clean, beginner-friendly web-based calculator built using **HT
 ## Future Improvements
 
 - Add parentheses support
+- Handle division by "0"
+- Handle display text overflow
 - Include scientific functions (square root, power, etc.)
 - Add light/dark theme toggle
 
