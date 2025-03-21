@@ -16,7 +16,7 @@
   - Learn how to create, find, and query documents
 - [x] **Unit 6:** MongoDB CRUD Operations: Replace and Delete Documents
   - Learn how to replace and delete documents
-- [ ] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
+- [X] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
   - Sort and limit query results
   - Count documents in MongoDB
 - [ ] **Unit 8:** MongoDB Aggregation
