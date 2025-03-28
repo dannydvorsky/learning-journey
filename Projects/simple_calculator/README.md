@@ -12,7 +12,7 @@ This project is a clean, beginner-friendly web-based calculator built using **HT
 - Error handling for invalid expressions
 
 ## Technologies Used
-
+sdd
 - **HTML5** for structure
 - **CSS3** for layout and styling (using CSS Grid and Flexbox)
 - **Vanilla JavaScript** for interactive logic and event handling
