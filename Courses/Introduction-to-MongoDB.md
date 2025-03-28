@@ -19,7 +19,7 @@
 - [X] **Unit 7:** MongoDB CRUD Operations: Modifying Query Results
   - Sort and limit query results
   - Count documents in MongoDB
-- [ ] **Unit 8:** MongoDB Aggregation
+- [X] **Unit 8:** MongoDB Aggregation
   - Learn to create aggregation pipelines
   - Perform data transformation and analysis
 - [ ] **Unit 9:** MongoDB Indexes

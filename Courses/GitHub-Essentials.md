@@ -14,7 +14,7 @@
 - [X] **Connect the Dots** – Find relevant conversations, commits, and projects.
 - [ ] **Code with Codespaces** – Learn how to use GitHub Codespaces with VS Code.
 - [ ] **Code with Copilot** – Explore AI-powered coding suggestions with GitHub Copilot.
-
+sds
 ## **Module 3: Automating Workflows with GitHub Actions**
 - [ ] **Hello GitHub Actions** – Learn how to create and use GitHub Actions.
 - [ ] **Test with Actions** – Understand continuous integration (CI) with GitHub Actions.
